@@ -7,7 +7,8 @@ package prjava43codina22;
 package prjava43codina22;
 import java.awt.*; // using AWT containers and components
 import java.awt.event.*; // using AWT events and listener interfaces
-import java.io;
+import java.text.*;
+import java.io.*;
 // An AWT GUI program inherits the top-level container java.awt.Frame
 public class Prjava43codina22 extends Frame
 implements ActionListener, WindowListener {
